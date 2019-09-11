@@ -9,3 +9,11 @@ h1 {
   height: 75px;
   width: 150px;
 }
+
+h2 {
+  font-family: monospace;
+}
+
+h3 {
+  font-family: sans-serif;
+}
